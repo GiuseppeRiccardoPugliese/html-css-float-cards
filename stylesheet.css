@@ -29,8 +29,8 @@
 
 /* Stili del secondo contenitore */
 .secondary_container{
-    min-height: 100px;
-    margin: 0 104px;
+    min-height: 100px ;
+    margin: 0 110px;
     background-color: black;
 }
 
@@ -42,9 +42,8 @@
 }
 .col{
     float: left;
-    /* width: calc(100% : 3); */
-    height: 100px;
-    border: #C71585;
+    width: calc(100% / 3);
+    height: 100px ;
 }
 img{
     height: 100px;
